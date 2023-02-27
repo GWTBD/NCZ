@@ -66,5 +66,5 @@ SELL-list
 1. masud RANA{ 81203a85a310d94b753e1188f80b9d6b } 23/2 --- 09/03
 2. Rakib 6baf57c951a040bcc67a9f0cdae029bc        - 23/2 --- 09/03 
 3. Md Dulal Ahammed d6159ffdfcffbd0fee0cb56466700ea4    01919205638  24/2 --- 09/03 1 mash
-6c88791c7c093aa6aea5edbfb28c5515                          pk amir vai 
+6c88791c7c093aa6aea5edbfb28c5515                           pk amir vai 
 
