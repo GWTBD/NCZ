@@ -16,7 +16,7 @@ STUDENT- 30 DAY- 22/2-----22/3
 
 
 ADMIN-
- 017a74e3bc15056aec123be326a8e9ac  nasir 2
+   nasir 2
   nasir 
 1c74f8e8f7bd1221a3b52cd88921626b --MOBILe
 
